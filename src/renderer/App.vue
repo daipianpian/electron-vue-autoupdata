@@ -3,7 +3,7 @@
     <!-- <router-view></router-view> -->
     <button @click="autoUpdate()">获取更新</button>
     <ol id="content">
-      <li>生命周期过程展示</li>
+      <li>v0.0.1-生命周期过程展示</li>
     </ol>
   </div>
 </template>
